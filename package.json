@@ -1,0 +1,13 @@
+{
+  "name": "cafe-rota",
+  "version": "1.0.0",
+  "description": "Shift rota for a small café",
+  "main": "server.js",
+  "scripts": {
+    "start": "node --disable-warning=ExperimentalWarning server.js"
+  },
+  "dependencies": {
+    "express": "^5.3.0"
+  },
+  "private": true
+}
